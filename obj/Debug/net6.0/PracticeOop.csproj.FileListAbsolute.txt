@@ -1,0 +1,15 @@
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\bin\Debug\net6.0\PracticeOop.exe
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\bin\Debug\net6.0\PracticeOop.deps.json
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\bin\Debug\net6.0\PracticeOop.runtimeconfig.json
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\bin\Debug\net6.0\PracticeOop.dll
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\bin\Debug\net6.0\PracticeOop.pdb
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.csproj.AssemblyReference.cache
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.AssemblyInfoInputs.cache
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.AssemblyInfo.cs
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.csproj.CoreCompileInputs.cache
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.dll
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\refint\PracticeOop.dll
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.pdb
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\PracticeOop.genruntimeconfig.cache
+C:\Users\sibah\source\repos\PracticeOop\PracticeOop\obj\Debug\net6.0\ref\PracticeOop.dll
