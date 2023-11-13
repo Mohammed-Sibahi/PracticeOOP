@@ -23,4 +23,16 @@ public class ChatRoom
     private List<User> _users = new List<User>();
     private List<Message> _messages = new List<Message>();
     
+
+    public void AddUser(User user)
+    { 
+        _users.Add(user);
+        Console.WriteLine($"{user.Name} joined the chat!");
+    }
+    public void SendMessage(Message message) 
+    {
+        _messages.Add(message);
+        Console.WriteLine($"{message.Content}.");
+    }
+
 }
